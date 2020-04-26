@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+button {
+    padding: 10px 30px;
+    border: solid rgb(68, 68, 68);
+    margin: 2px;
+    color: rgb(68, 68, 68);
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+.Btn_red{
+    color: red;
+    border: solid red;
+}
